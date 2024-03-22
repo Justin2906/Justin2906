@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Justin Rondon 👋</h1>
 </div>
-<img style="min-width=500px;" src="https://i.ibb.co/Zc2dbZv/Justin-Rondon.png">
+<img src="https://i.ibb.co/p2qVPb4/imagen-2024-03-22-205353413.png">
 
 ## Sobre mi
 
