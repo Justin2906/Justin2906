@@ -8,7 +8,6 @@
 - ⭐ Desarrollador Web ⭐ 
 - 📲 Desarrollador de apps para móvil
 - ⭐ Estudiante de CyberSeguridad
-- 📲 Desarrollador de apps para móvil
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
